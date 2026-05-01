@@ -1,0 +1,4 @@
+1. Shadow AI usage accounts for 60% of tool usage.
+2. Finance and HR show highest unauthorized AI usage.
+3. High-risk sensitive data is frequently shared with unapproved AI tools.
+4. Policy awareness does not fully reduce shadow AI.

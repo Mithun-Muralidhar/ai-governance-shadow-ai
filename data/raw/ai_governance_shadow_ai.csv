@@ -1,0 +1,11 @@
+Employee_ID,Department,Role,AI_Tool_Used,Approved_Tool,Usage_Frequency,Data_Type_Used,Sensitivity_Level,Policy_Aware,Approval_Requested,Risk_Level,Region,Date
+E001,Finance,Analyst,ChatGPT,No,Daily,Financial Reports,High,Yes,No,High,APAC,2025-01-15
+E002,Marketing,Manager,Copy.ai,Yes,Weekly,Campaign Content,Low,Yes,Yes,Low,EMEA,2025-01-18
+E003,HR,Recruiter,ChatGPT,No,Daily,Resumes,Medium,No,No,High,APAC,2025-02-01
+E005,Sales,Executive,Claude,No,Weekly,Client Data,High,No,No,High,EMEA,2025-02-14
+E007,Operations,Coordinator,Notion AI,Yes,Weekly,Internal Docs,Low,Yes,Yes,Low,APAC,2025-03-01
+E009,Marketing,Executive,ChatGPT,No,Daily,Ad Copy,Low,Yes,No,Medium,EMEA,2025-03-08
+E011,HR,Manager,ChatGPT,No,Weekly,Employee Records,High,No,No,High,APAC,2025-03-18
+E012,Sales,Associate,Copy.ai,Yes,Weekly,Sales Emails,Low,Yes,Yes,Low,EMEA,2025-03-22
+E014,Legal,Assistant,Claude,No,Rarely,Legal Notes,Medium,Yes,No,Medium,APAC,2025-04-01
+E015,Operations,Manager,Notion AI,Yes,Weekly,Process Docs,Low,Yes,Yes,Low,EMEA,2025-04-05
